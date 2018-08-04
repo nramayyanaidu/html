@@ -1,0 +1,37 @@
+  
+		
+body {
+
+	width:65%; height:100%;
+	display: block;
+    padding: 15px;
+    font-size: 13px;
+    border:20PX SOLID #F1F1F1;
+    border-left-width:80px;
+	border-right-width:80px;
+    background-color:#FFFFFF;
+	
+    }
+    
+a:link
+{
+	color:blue;
+	text-decoration:underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
